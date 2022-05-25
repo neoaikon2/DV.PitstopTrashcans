@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1354695365
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: trashcan.assets
+      Dependencies: {}

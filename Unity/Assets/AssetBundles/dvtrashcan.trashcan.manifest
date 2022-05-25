@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1993008158
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 878fab0088874f89d2de3753b8361e2d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a444ad3a1be424709ffebd3df2101e79
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+Assets:
+- Assets/Trashcan.mat
+- Assets/cabinet_n.png
+- Assets/cabinet_d.png
+- Assets/DV Trashcan.prefab
+Dependencies: []

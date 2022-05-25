@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 989773804
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 527cea67858fa28c87b429d4d05a17fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a444ad3a1be424709ffebd3df2101e79
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+Assets:
+- Assets/Trashcan_Mat.mat
+- Assets/TrashBin_JobPaperDiscardArrow.png
+- Assets/Hyce.png
+- Assets/Hyce_Logo.mat
+- Assets/Trashcan_n.png
+- Assets/Label.mat
+- Assets/TrashCan_d.png
+- Assets/Trashcan.prefab
+Dependencies: []
