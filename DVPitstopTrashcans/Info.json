@@ -1,0 +1,7 @@
+{
+  "Id": "DVPitstopTrashcans",
+  "Author": "Crypto [Neo]",
+  "DisplayName": "Pitstop Trashcans",
+  "Version": "1.0.0",
+  "EntryMethod": "DVPitstopTrashcans.PitstopTrashcans.Load"
+}
