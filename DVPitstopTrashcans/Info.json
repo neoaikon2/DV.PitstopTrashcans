@@ -4,4 +4,6 @@
   "DisplayName": "Pitstop Trashcans",
   "Version": "1.0.0",
   "EntryMethod": "DVPitstopTrashcans.PitstopTrashcans.Load"
+  "Repository": "https://raw.githubusercontent.com/neoaikon2/DV.PitstopTrashcans/master/repo.json",
+  "HomePage": "https://www.nexusmods.com/derailvalley/mods/442"
 }
